@@ -7,9 +7,9 @@
     />
     <p>
       I live in Lima and work at
-      <a target="_blank" href="https://cluster.pe/">Cluster</a> . I grew up in
-      Peru and thaught myself programming. I work as a technical lead at Cluster
-      and co-host LimaJS community events.
+      <a target="_blank" href="https://cluster.pe/">Cluster</a>. I grew up in
+      Peru and taught myself how to program. I work as a technical lead at
+      Cluster and co-host LimaJS community events.
     </p>
     <p>
       I'm a proud father of three lovely cats and a beautiful woman who goes by
